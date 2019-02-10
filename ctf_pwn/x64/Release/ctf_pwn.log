@@ -1,0 +1,28 @@
+﻿  ctf_pwn.cpp
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(95): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(96): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(97): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(101): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(102): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(106): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(107): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(108): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(109): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(110): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(111): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(112): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(116): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(117): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(118): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(119): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(120): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(121): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(122): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(130): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(132): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(133): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(137): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+  Generating code
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ctf_pwn.vcxproj -> C:\Users\Mlo\Documents\Projects\ctf_pwn\x64\Release\ctf_pwn.exe

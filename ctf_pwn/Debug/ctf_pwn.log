@@ -1,0 +1,3 @@
+﻿  ctf_pwn.cpp
+c:\users\mlo\documents\projects\ctf_pwn\ctf_pwn\ctf_pwn.cpp(131): warning C4305: '+=': truncation from 'double' to 'float'
+  ctf_pwn.vcxproj -> C:\Users\Mlo\Documents\Projects\ctf_pwn\Debug\ctf_pwn.exe
